@@ -1,12 +1,3 @@
 - Hi, I’m @roobbs
-
-
-<!---
-- I’m interested in ...
-- I’m currently learning ...
-- I’m looking to collaborate on ...
-- How to reach me ...
-
-roobbs/roobbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=roobbs&show_icons=true&locale=en&layout=compact" alt="roobbs" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=roobbs&show_icons=true&locale=en" alt="roobbs" /></p>
