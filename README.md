@@ -3,6 +3,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roobbs&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 <br/>
 <h1>Tools I've used</h1>
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,git,ts,css,firebase,mongo,figma,express&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,css,tailwind,mongo,firebase,git,figma&theme=dark"/>
 
 
