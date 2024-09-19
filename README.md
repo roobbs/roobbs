@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roobbs&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 <br/>
 <h1>My stack:</h1>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,css,tailwind,mongo,firebase,git,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,css,tailwind,mongo,firebase,postgresql,git,figma&theme=dark"/>
 
 Visit my website <a href="https://roobbs.vercel.app/" target="_blank" > Here <a/>
 
